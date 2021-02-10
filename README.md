@@ -6,3 +6,6 @@ Consolidate a list of important links in one place and allow for easy customizat
 
 ## Technology
 React.js & CSS
+
+## Demo
+![screenshot](/jaredtr.ee/img.png?raw=true "jaredtr.ee")
